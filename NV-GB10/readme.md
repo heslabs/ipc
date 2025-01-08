@@ -1,5 +1,7 @@
+ 
 ---
 ## Project DIGITS: NVIDIA GB10 Grace Blackwell Superchip
+
 *  The GB10 Superchip combines a Blackwell GPU with a Grace CPU featuring **20 Arm-based cores**, developed in collaboration with MediaTek.
 * **1 petaflop** of performance at **FP4 precision** (A petaflop is 1,000 trillion calculations per second)
 * **128GB** of unified, coherent memory and up to **4TB** of NVMe storage
