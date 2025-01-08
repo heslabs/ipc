@@ -16,11 +16,29 @@
 
 
 ---
-## NVIDIA Jetson Orin
+## NVIDIA Jetson Orin Nano Super
+https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/
+
+* The NVIDIA Jetson Orin Nano™ Super Developer Kit is a compact, yet powerful computer that redefines generative AI for small edge devices.
+* It delivers up to **67 TOPS** of AI performance
+
+<img src="https://github.com/user-attachments/assets/b17f9f23-76ab-4956-a94f-cf21b4258d70" width=450>
 
 
 ---
-## MAC pro
+## NVIDIA Jetson Orin
+https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/
+
+* Bring your next-gen products to life with the world’s most powerful embedded AI computers for generative AI, computer vision, and advanced robotics.
+* The NVIDIA Jetson Orin™ family includes seven modules with identical architecture, offering up to **275 trillion operations per second (TOPS)** and 8X the performance of the last generation for multimodal AI inference, plus high-speed interface support.
+
+<img src="https://github.com/user-attachments/assets/4182120f-e9a2-4cb9-a41e-6ef70108c12f" width=850>
+
+---
+## MacBook Pro M3
+https://support.apple.com/zh-tw/117735
+
+* 16GB 或 24GB
 
 ---
 ## Reference
