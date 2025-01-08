@@ -18,15 +18,15 @@
 ---
 # NVIDIA Jetson Orin
 
-* Jetson Orin Nano Super Developer Kit
+* **Jetson Orin Nano Super Developer Kit**
     * The NVIDIA Jetson Orin™ Nano Super Developer Kit is a compact, yet powerful computer that redefines generative AI for small edge devices. At just **USD $249**, it provides developers, students, and makers with the most affordable and accessible platform, backed by the support of NVIDIA AI software and a broad AI software ecosystem.  
-* Jetson Orin Nano 8GB
+* **Jetson Orin Nano 8GB**
     * Bring next-level performance to your next edge AI or robotic innovation in a small, power-efficient form factor built for the edge. You get up to **40 TOPS** of AI performance in the smallest NVIDIA Jetson™ form-factor, with power options between 5W and **15W**. All in a powerful AI supercomputer with the original Jetson Nano™ footprint.  
-* Jetson AGX Orin 64GB
+* **Jetson AGX Orin 64GB**
     * The NVIDIA® Jetson AGX Orin™ 64GB module delivers up to **275 TOPS** of AI performance with power configurable between 15W and 60W. This gives you more than 8X the performance of Jetson AGX Xavier™ in the same compact form-factor for robotics and other autonomous machine use cases.
-* Jetson AGX Orin Industrial
+* **Jetson AGX Orin Industrial**
     * The NVIDIA® Jetson AGX Orin™ Industrial module delivers up to **248 TOPs** of AI performance for embedded industrial applications with power configurable between 15W and **75W**. It’s form-factor and pin-compatible with Jetson AGX Orin, and gives you more than 8X the performance of Jetson AGX Xavier Industrial.
-* Jetson AGX Orin 32GB
+* **Jetson AGX Orin 32GB**
     * The NVIDIA® Jetson AGX Orin™ 32GB module delivers up to **200 TOPS** of AI performance with power configurable between 15W and **40W**. This gives you more than 6X the performance of Jetson AGX Xavier™ in the same compact form-factor for robotics and other autonomous machine use cases.
 
 ---
