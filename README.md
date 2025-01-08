@@ -52,7 +52,7 @@ https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/
 ## MacBook Pro M3
 https://support.apple.com/zh-tw/117735
 
-* 16GB 或 24GB
+* up 128GB or 192GB
 
 ---
 ## Reference
