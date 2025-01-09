@@ -1,9 +1,8 @@
 # Raspberry Pi
 
 ---
-## Raspberry Pi 5
+## Raspberry Pi 5 8GB
 
-Raspberry Pi 5 8GB \
 https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html
 
 * 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with cryptography extensions, 512KB per-core L2 caches, and a 2MB shared L3 cache
@@ -23,7 +22,6 @@ https://www.seeedstudio.com/Raspberry-Pi-5-8GB-p-5810.html
 ---
 ## Raspberry Pi AI Kit
 
-Raspberry Pi AI Kit \
 https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html
 
 * The Raspberry Pi AI Kit bundles the Raspberry Pi M.2 HAT+ with a Hailo AI acceleration module.
