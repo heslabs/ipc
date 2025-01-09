@@ -32,7 +32,6 @@ https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html
 ---
 ## Raspberry Pi Al HAT+ 26 TOPS
 
-Raspberry Pi Al HAT+ 26 TOPS
 https://www.seeedstudio.com/Raspberry-Pi-Al-HAT-26-TOPS-p-6243.html
 
 * The Raspberry Pi AI HAT+ is an add-on board with a built-in Hailo AI accelerator for Raspberry Pi 5.
