@@ -1,9 +1,14 @@
 
 ---
 ## Grove Vision AI v2 Kit
-
 https://www.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html
 
+Grove Vision AI v2 Kit bundle
+* Grove Vision AI v2 module (Arm Cortex-A55+Ethos-U55)
+* RPi OV5647 FOV camera module (MIPI interface)
+* Seeed Studio XIAO ESP32C3 module (2.4Hz WiFi, BLE 5.0)
+
+Feature
 * Powerful AI Processing Capabilities: Utilizes WiseEye2 HX6538 processor with a dual-core **Arm Cortex-M55** and integrated **Arm Ethos-U55** neural network unit.
 * Versatile AI Model Support: Easily deploy off-the-shelf or your custom AI models from **SenseCraft AI**, including Mobilenet V1, V2, Efficientnet-lite, **Yolo v5 & v8** **TensorFlow** and **PyTorch** frameworks are supported.
 * Rich Peripheral Devices: Includes PDM microphone, SD card slot, Type-C, **Grove interface**, and other peripherals.
